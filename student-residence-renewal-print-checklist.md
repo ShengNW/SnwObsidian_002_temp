@@ -12,10 +12,10 @@
 
 ## 1. 身份与案件材料（必须带）
 
-- [ ] 护照原件
-- [ ] 护照相关页复印件（身份页、签证页、重要出入境页）
-- [ ] 当前或最近一次 `titre de sejour` / `VLS-TS`
-- [ ] 已过期的 `attestation de prolongation d'instruction`
+- [x] 护照原件
+- [x] 护照相关页复印件（身份页、签证页、重要出入境页）
+- [x] 当前或最近一次 `titre de sejour` / `VLS-TS`
+- [x] 已过期的 `attestation de prolongation d'instruction`
 - [ ] `ANEF` 递交证明
 - [ ] `ANEF` 案件编号
 - [ ] `ANEF` 进度页面截图
