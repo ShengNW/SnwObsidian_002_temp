@@ -1,3 +1,4 @@
+```bash
 apt update
 apt install -y curl ca-certificates gnupg jq
 
@@ -10,3 +11,11 @@ echo "deb [signed-by=/etc/apt/keyrings/claude-code.asc] https://downloads.claude
 
 apt update
 apt install -y claude-code
+```
+
+```bash
+curl -fsSL https://deb.nodesource.com/setup_22.x | bash -
+apt install -y nodejs
+
+npm install -g openclaw@latest
+```
